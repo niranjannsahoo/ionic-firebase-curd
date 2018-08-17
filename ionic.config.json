@@ -1,0 +1,8 @@
+{
+  "name": "ionic-firebase-crud",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "55343b55"
+}
